@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Desktop\Omar\Torrent_Final\bin\Release\Torrent_Final.exe
+C:\Documents and Settings\Administrator\Desktop\Omar\Torrent_Final\bin\Release\Torrent_Final.pdb
+C:\Documents and Settings\Administrator\Desktop\Omar\Torrent_Final\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Omar\Torrent_Final\obj\x86\Release\Torrent_Final.exe
+C:\Documents and Settings\Administrator\Desktop\Omar\Torrent_Final\obj\x86\Release\Torrent_Final.pdb
+C:\Documents and Settings\Administrator\Desktop\Omar\Omar_Khan_Torrent_Final\bin\Release\Torrent_Final.exe
+C:\Documents and Settings\Administrator\Desktop\Omar\Omar_Khan_Torrent_Final\bin\Release\Torrent_Final.pdb
+C:\Documents and Settings\Administrator\Desktop\Omar\Omar_Khan_Torrent_Final\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Omar\Omar_Khan_Torrent_Final\obj\x86\Release\Torrent_Final.exe
+C:\Documents and Settings\Administrator\Desktop\Omar\Omar_Khan_Torrent_Final\obj\x86\Release\Torrent_Final.pdb
+C:\Documents and Settings\Administrator\Desktop\Omar\Omar_Khan_Torrent_Final\bin\Release\Torrent_Final.exe.config
