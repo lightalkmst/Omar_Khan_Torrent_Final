@@ -1,3 +1,5 @@
+We were given two months for this assignment. I did it within a week. During the grading interview, the teacher's assistant told me a couple things: I was the only solo team, and I was the only one to get past connecting to the peers.
+
 So far what I have is:
 
 Takes 0 or 1 command line arguments
